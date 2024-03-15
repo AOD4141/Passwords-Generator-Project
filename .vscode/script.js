@@ -24,3 +24,4 @@ password.innerText = passwordGenerator();
 
 
 document.getElementById("generate").addEventListener("click",writePassword);
+}
