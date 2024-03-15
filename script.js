@@ -13,6 +13,7 @@ function passwordGenerator ()  {
     return password;
 }
 
+console.log(passwordGenerator ());
 
 //Add window.onload to redirect the function to a web page
 
