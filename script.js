@@ -18,4 +18,10 @@ function passwordGenerator ()  {
 
 window.onload = function () {
     document.getElementById("password").innerHTML = passwordGenerator();
+
+    function writePassword() {
+        var password = document.getElementById("password"); 
+        password.innerText = passwordGenerator();
+        }
+        
 }
