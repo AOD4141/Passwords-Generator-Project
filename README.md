@@ -15,11 +15,11 @@ The purpose is to create an application to generate random passwords using HTML,
 
 ## Link to page
 
-
+https://aod4141.github.io/Passwords-Generator-Project/
 
 ## Link to repo
 
-
+https://github.com/AOD4141/Passwords-Generator-Project
 
 ## Authors
 
