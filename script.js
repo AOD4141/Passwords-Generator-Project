@@ -12,3 +12,10 @@ function passwordGenerator ()  {
     
     return password;
 }
+
+
+//Add window.onload to redirect the function to a web page
+
+window.onload = function () {
+    document.getElementById("password").innerHTML = passwordGenerator();
+}
