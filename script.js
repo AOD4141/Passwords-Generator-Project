@@ -23,5 +23,9 @@ window.onload = function () {
         var password = document.getElementById("password"); 
         password.innerText = passwordGenerator();
         }
+
+ //Add event listener on the generate password click
+
+document.getElementById("generate").addEventListener("click",writePassword);
         
 }
